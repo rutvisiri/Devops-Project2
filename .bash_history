@@ -37,3 +37,12 @@ systemctl enable firewalld
 firewall-cmd --permanent --add-port=8080/tcp
 sudo firewall-cmd --reload
  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+ls -ltr
+vi Jenkinsfile
+git -version
+yum install git 
+clear
+pwd
+ls -ltr
+cd 
+sudo su - root
